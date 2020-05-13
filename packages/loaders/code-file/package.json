@@ -21,7 +21,7 @@
   "dependencies": {
     "@graphql-toolkit/common": "0.10.6",
     "@graphql-toolkit/graphql-tag-pluck": "0.10.6",
-    "tslib": "1.11.2"
+    "tslib": "2.0.0"
   },
   "publishConfig": {
     "access": "public",
